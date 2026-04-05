@@ -1,0 +1,9 @@
+class Phone{
+static int phonename=Oppo
+static String color="Blue";
+public static void getphonedetails(){
+System.out.println("method with no return type and no parameter");
+
+}
+public static void getphonedetails(){
+System.out.println()
